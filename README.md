@@ -1,4 +1,4 @@
-# Hola 👋, soy Kevin Rivas
+# Hola 👋 soy Kevin Rivas
 
 Desarrollador Full Stack e Ingeniero Quimico. Me desempeño distintos lenguajes como Python, JavaScript, Ruby.
 
